@@ -8,7 +8,7 @@ For a detailed explanation of the project's methodology,
 data analysis, Python implementation, visualizations, and 
 machine learning results, refer to the project thesis below.
 
-📘 [Read the Project Thesis](YOUR_THESIS_URL)
+📘 [Read the Project Thesis](https://drive.google.com/file/d/1oHKGsttYEevvK6-i8EeNrBnKddLkvJZM/view?usp=sharing)
 
 ## Project overview
 
